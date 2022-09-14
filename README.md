@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=5n3iZMe0rIs&ab_channel=HarshPatel
 
 Here is the model performing on an image:
 
-![image demo](https://github.com/harshp30/LiveDashcamCarDetection/blob/main/images/imagedemo.png)
+![image demo](https://github.com/harshp30/LiveSignLanguageTranslator/blob/main/images/imagedemo.png)
     
 ## Performance
  
@@ -41,12 +41,16 @@ Using tensorboard I was able to get a few charts displaying training and evaluat
 
 #### Evaluation Metrics:
 
-![eval metrics](https://github.com/harshp30/LiveDashcamCarDetection/blob/main/images/evalboxprecision.png)
-![eval metrics](https://github.com/harshp30/LiveDashcamCarDetection/blob/main/images/evalboxrecall.png)
+![eval metrics](https://github.com/harshp30/LiveSignLanguageTranslator/blob/main/images/precisioneval.png)
+![eval metrics](https://github.com/harshp30/LiveSignLanguageTranslator/blob/main/images/recalleval.png)
+
+Here is also what the model see's when looking at a sample image:
+
+![tensorboard image](https://github.com/harshp30/LiveSignLanguageTranslator/blob/main/images/imageeval.png)
  
 #### Training Metrics:
 
-![training metrics](https://github.com/harshp30/LiveDashcamCarDetection/blob/main/images/train1.png)
+![training metrics](https://github.com/harshp30/LiveSignLanguageTranslator/blob/main/images/train.png)
 
 ## Key Learnings
 
